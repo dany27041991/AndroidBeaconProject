@@ -1,0 +1,34 @@
+{
+  "version": "1",
+  "userID": "DEVICE_ID",
+  "UUID": "A7AE2EB71F004168B99BA749BAC1CA64",
+  "scanPeriod": "5000",
+  "interScanPeriod": "7000",
+  "ray": "50",
+  "homeBeacons": [
+    {
+      "room": "kitchen",
+      "macAddress": "D9:87:36:2A:34:EC"
+    },
+    {
+      "room": "livingroom",
+      "macAddress": "D5:48:D8:63:FC:91"
+    }
+  ],
+  "POIBeacons": [
+    {
+      "place": "supermarket1",
+      "macAddress": "MAC_BEACON_GSA"
+    }
+  ],
+  "cityZones": [
+    {
+      "name": "park",
+      "center": "40.3396001, 18.0475835"
+    },
+    {
+      "name": "cemetery",
+      "center": "40.335304, 18.114794"
+    }
+  ]
+}
